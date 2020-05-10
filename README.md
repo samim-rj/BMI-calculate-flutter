@@ -14,7 +14,7 @@
      <td>Result Page</td>
   </tr>
   <tr>
-    <td><img src="screenshots/screenshot_1.JPG" width=270 height=480></td>
+    <td><img src="screenshots/screenshot_1.png" width=270 height=480></td>
     <td><img src="screenshots/screenshot_2.JPG" width=270 height=480></td>
   </tr>
  </table>
